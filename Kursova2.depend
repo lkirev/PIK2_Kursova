@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1464736396 source:c:\users\deikata\desktop\kursova2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1464733427 source:d:\vasko\downloads\Курсови 2015 и 2016\Курсови_1\Курсови_1_2\22\22_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1527726194 source:d:\school\pik\22_1\kursova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
